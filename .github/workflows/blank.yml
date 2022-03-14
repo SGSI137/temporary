@@ -1,0 +1,7 @@
+name: Simplify
+
+on:
+  workflow_dispatch:
+
+    runs-on: ubuntu-20.04
+      - uses: actions/checkout@v2
